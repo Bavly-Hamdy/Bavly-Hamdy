@@ -1,21 +1,274 @@
-# 💫 About Me:
-I am a dedicated Full-Stack Developer passionate about building robust web applications and seamless mobile experiences. I specialize in bridging the gap between sophisticated visual designs and highly functional, clean code.<br><br>🔭 I’m currently working on: Architecting and developing scalable cross-platform applications using React and Capacitor.<br>👯 I’m looking to collaborate on: Open-source projects focused on modern web engineering and performance optimization.<br>🌱 I’m currently learning: Advanced deployment workflows with Vercel and robust database management using Neon PostgreSQL.<br>💬 Ask me about: Full-stack development lifecycle, translating Figma designs into pixel-perfect code, and modern JavaScript ecosystems.<br>⚡ Fun fact: I am highly detail-oriented and obsess over visual precision, relying on high-resolution environments to bridge the gap between UI design and development.
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:020617,50:1e1b4b,100:3b82f6&height=220&section=header&text=Bavly%20Hamdy&fontSize=54&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=Full-Stack%20Software%20Engineer%20%26%20UI%2FUX%20Architect%20%7C%20Next.js%2C%20TypeScript%2C%20React%20%26%20No&descAlignY=58&descSize=17" width="100%" alt="header" />
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bavly-hamdy) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@BavlyAI) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Bavly.hamdyai@gmail.com) 
+<a href="https://github.com/Bavly-Hamdy"><img src="https://avatars.githubusercontent.com/u/100946403?v=4" width="100" style="border-radius:50%;border:3px solid #6366f1;padding:2px;" alt="Bavly Hamdy" /></a>
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Bavly-Hamdy&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=Bavly-Hamdy&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Bavly-Hamdy&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<a href="https://github.com/Bavly-Hamdy"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=60a5fa&center=true&vCenter=true&width=620&lines=Full-Stack+Software+Engineer+%26+UI%2FUX+Architect+%7C+Next.js%2C+TypeScript%2C+React+%26+Node.js.+Building+modern%2C+high-performance+web+experiences.;Full-Stack+Developer+%26+Open+Source+Contributor;Passionate+about+high-performance+software" alt="Typing SVG" /></a>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Bavly-Hamdy&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+<a href="https://github.com/Bavly-Hamdy?tab=followers"><img src="https://img.shields.io/badge/Followers-1-6d28d9?style=flat-square&logo=github&logoColor=white" alt="followers" /></a>
+<img src="https://img.shields.io/badge/Stars-30-db2777?style=flat-square&logo=starship&logoColor=white" alt="stars" />
+<img src="https://img.shields.io/badge/Grade-C-0f766e?style=flat-square" alt="grade" />
+<img src="https://img.shields.io/badge/Location-Cairo%2C%20Egypt-1f2937?style=flat-square&logo=googlemaps&logoColor=white" alt="location" />
+<img src="https://komarev.com/ghpvc/?username=Bavly-Hamdy&style=flat-square&color=7c3aed&label=Profile+Views" alt="views" />
+</p>
 
----
-[![](https://komarev.com/ghpvc/?username=Bavly-Hamdy&icon=0&color=0)](https://visitcount.itsvg.in)
+</div>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<br/>
+
+## 🧑‍💻 About Me
+
+Full-Stack Software Engineer & UI/UX Architect | Next.js, TypeScript, React & Node.js. Building modern, high-performance web experiences.. Passionate about clean architecture and impactful open-source engineering.
+
+- 💼 **Focus**: Distributed software architectures
+- 🔭 **Working on**: Engagement
+- 🌱 **Learning**: Advanced systems performance & scalability
+- 💬 **Ask me about**: Software architecture, TypeScript, system design
+- 📫 **Reach me**: @Bavly-Hamdy on GitHub
+- ⚡ **Fun fact**: I enjoy brewing espresso with measured pressure profiling.
+
+<br/>
+
+## 🛠️ Tech Stack
+
+### 🌐 Languages & Runtimes
+
+<p align="left">
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" alt="C#" />
+<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+</p>
+
+### 🎨 Frontend & UI Frameworks
+
+<p align="left">
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=white" alt="React" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" alt="Vue.js" />
+<img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular" />
+<img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
+<img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+</p>
+
+### ⚙️ Backend & APIs
+
+<p align="left">
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" />
+<img src="https://img.shields.io/badge/.NET%20%2F%20ASP.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET / ASP.NET" />
+</p>
+
+### 📱 Mobile & Cross-Platform
+
+<p align="left">
+<img src="https://img.shields.io/badge/React%20Native-61DAFB?style=flat-square&logo=react&logoColor=white" alt="React Native" />
+<img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" alt="Expo" />
+<img src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white" alt="Electron" />
+</p>
+
+### 🗄️ Databases & ORM
+
+<p align="left">
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+<img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white" alt="Firebase" />
+<img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" alt="Prisma" />
+</p>
+
+### ☁️ Cloud, DevOps & Infrastructure
+
+<p align="left">
+<img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
+<img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white" alt="Netlify" />
+<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+</p>
+
+### 🧠 AI, Machine Learning & Data
+
+<p align="left">
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="Scikit-Learn" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
+<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=white" alt="Hugging Face" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain" />
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter" />
+</p>
+
+### ✨ Design & Prototyping
+
+<p align="left">
+<img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white" alt="Adobe Illustrator" />
+<img src="https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white" alt="Blender" />
+</p>
+
+### 🛠️ Tools, Utilities & Platforms
+
+<p align="left">
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman" />
+</p>
+
+<br/>
+
+## 🚀 Featured Projects
+
+| Project | Description | Stack | ⭐ | 🍴 |
+| :-- | :-- | :-- | :-: | :-: |
+| [**Engagement**](https://github.com/Bavly-Hamdy/Engagement) | 💍 An elegant, animated digital engagement invitation for Rashad & Esraa featuring audio player, 3D flip-book guestbook, countdown, RSVP, and gallery. | `TypeScript` | 5 | 2 |
+| [**ReadmeForge**](https://github.com/Bavly-Hamdy/ReadmeForge) | Engineering-grade README generator for modern software repositories with AST parsing and visual Mermaid architecture topologies. | `TypeScript` | 2 | 0 |
+| [**BOSSLA-CAREER-PRO**](https://github.com/Bavly-Hamdy/BOSSLA-CAREER-PRO) | 🧭 Forensic ATS Resume Auditor, Google X-Y-Z Bullet Rewriter, Keyword Gap Detector & AI Career Co-Pilot powered by Gemini 2.5 Flash. | `TypeScript` | 1 | 0 |
+| [**BIS-Smart-Grader-V2**](https://github.com/Bavly-Hamdy/BIS-Smart-Grader-V2) | BIS-Smart-Grader-V2 is a modern web application built with React, TypeScript, and Tailwind CSS, integrated with Firebase for seamless grading and assessment workflows. | `TypeScript` | 1 | 0 |
+
+<br/>
+
+## 📊 Profile Analytics
+
+> Generated from a full analysis of **34 repositories** and the public activity stream · data as of 2026-10-04
+
+### ⚡ At a Glance
+
+| ⭐ Stars | 🍴 Forks | 📦 Repos | 👥 Followers | 🔥 Contributions | 📅 Years |
+| :-: | :-: | :-: | :-: | :-: | :-: |
+| **30** | **2** | **34** | **1** | **68** | **4.6** |
+
+### 🧬 Language DNA
+
+```text
+TypeScript  ███████████████████████░░   91.9%   18 repos
+CSS         █░░░░░░░░░░░░░░░░░░░░░░░░    2.2%   22 repos
+Kotlin      █░░░░░░░░░░░░░░░░░░░░░░░░    2.2%   1 repos
+JavaScript  █░░░░░░░░░░░░░░░░░░░░░░░░    2.0%   16 repos
+HTML        ░░░░░░░░░░░░░░░░░░░░░░░░░    1.0%   20 repos
+Python      ░░░░░░░░░░░░░░░░░░░░░░░░░    0.5%   2 repos
+Swift       ░░░░░░░░░░░░░░░░░░░░░░░░░    0.1%   1 repos
+Batchfile   ░░░░░░░░░░░░░░░░░░░░░░░░░    0.0%   1 repos
+```
+
+```mermaid
+%%{init: {'theme':'base','themeVariables':{'pie1':'#3178c6','pie2':'#563d7c','pie3':'#A97BFF','pie4':'#f1e05a','pie5':'#e34c26','pie6':'#3572A5','pie7':'#F05138','pie8':'#C1F12E','pieStrokeColor':'#ffffff','pieOuterStrokeWidth':'0px','pieSectionTextColor':'#ffffff','pieTitleTextSize':'16px'}}}%%
+pie showData title Code composition by bytes
+    "TypeScript" : 91.9
+    "CSS" : 2.2
+    "Kotlin" : 2.2
+    "JavaScript" : 2
+    "HTML" : 1
+    "Python" : 0.5
+    "Swift" : 0.1
+    "Batchfile" : 0
+```
+
+### 🕰️ Coding Rhythm
+
+```text
+Sunday     ░░░░░░░░░░░░░░░░░░░░░░    0.0%
+Monday     ██████░░░░░░░░░░░░░░░░   25.0%
+Tuesday    ██████░░░░░░░░░░░░░░░░   29.4%
+Wednesday  █░░░░░░░░░░░░░░░░░░░░░    4.4%
+Thursday   ███░░░░░░░░░░░░░░░░░░░   11.8%
+Friday     █░░░░░░░░░░░░░░░░░░░░░    2.9%
+Saturday   ██████░░░░░░░░░░░░░░░░   26.5%
+
+🌅 Morning  ██░░░░░░░░░░░░░░░░░░░░    7.4%
+☀️ Daytime  ██░░░░░░░░░░░░░░░░░░░░   10.3%
+🌆 Evening  █████████████████░░░░░   76.5%
+🌙 Night    █░░░░░░░░░░░░░░░░░░░░░    5.9%
+```
+
+**🌆 Evening hacker** · Peak: **Tuesday 20:00 UTC**  
+<sub>All times in UTC, derived from public activity.</sub>
+
+### 🏆 Developer Scorecard
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Overall-28%2F100%20%C2%B7%20C-6d28d9?style=for-the-badge" alt="overall" />
+<img src="https://img.shields.io/badge/Archetype-Interface%20Craftsman-db2777?style=for-the-badge" alt="archetype" />
+
+</div>
+
+| Dimension | Score | |
+| :-- | :-- | --: |
+| 🎯 Impact | `██████░░░░░░░░░░░░░░` | **29** |
+| 📈 Consistency | `██░░░░░░░░░░░░░░░░░░` | **9** |
+| 🧪 Versatility | `██████░░░░░░░░░░░░░░` | **32** |
+| 🛠️ Maintenance | `████████████░░░░░░░░` | **62** |
+| 🤝 Community | `█░░░░░░░░░░░░░░░░░░░` | **6** |
+| 📝 Documentation | `███████░░░░░░░░░░░░░` | **36** |
+
+> 🎨 **Interface Craftsman** — Obsessed with user-facing experience, components and interaction quality.
+
+### 🔥 Contribution Pulse
+
+| Total | Commits | Pull Requests | Issues | Reviews | Current Streak | Longest Streak |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| **68** | **44** | **0** | **0** | **0** | **0 days** | **3 days** |
+
+<sub>🏅 Best Day: **20** — 2026-09-29</sub>
+
+### 🗓️ Shipping Timeline
+
+```text
+2022  ██░░░░░░░░░░░░░░░░░░░░░░░░░░░░  1
+2024  ██████████░░░░░░░░░░░░░░░░░░░░  6
+2025  ███████████████░░░░░░░░░░░░░░░  9
+2026  ██████████████████████████████  18
+```
+
+### 🏷️ Recurring Themes
+
+<img src="https://img.shields.io/badge/typescript-8-30363d?style=flat-square" alt="typescript" /> <img src="https://img.shields.io/badge/tailwindcss-6-30363d?style=flat-square" alt="tailwindcss" /> <img src="https://img.shields.io/badge/react-5-30363d?style=flat-square" alt="react" /> <img src="https://img.shields.io/badge/framer--motion-3-30363d?style=flat-square" alt="framer-motion" /> <img src="https://img.shields.io/badge/gemini--ai-2-30363d?style=flat-square" alt="gemini-ai" /> <img src="https://img.shields.io/badge/gemini--api-2-30363d?style=flat-square" alt="gemini-api" /> <img src="https://img.shields.io/badge/firebase-2-30363d?style=flat-square" alt="firebase" /> <img src="https://img.shields.io/badge/fullstack-2-30363d?style=flat-square" alt="fullstack" /> <img src="https://img.shields.io/badge/react19-2-30363d?style=flat-square" alt="react19" /> <img src="https://img.shields.io/badge/vite-2-30363d?style=flat-square" alt="vite" /> <img src="https://img.shields.io/badge/ast-1-30363d?style=flat-square" alt="ast" /> <img src="https://img.shields.io/badge/code--remediation-1-30363d?style=flat-square" alt="code-remediation" /> <img src="https://img.shields.io/badge/cwe-1-30363d?style=flat-square" alt="cwe" /> <img src="https://img.shields.io/badge/devsecops-1-30363d?style=flat-square" alt="devsecops" /> <img src="https://img.shields.io/badge/github--actions-1-30363d?style=flat-square" alt="github-actions" /> <img src="https://img.shields.io/badge/open--source-1-30363d?style=flat-square" alt="open-source" />
+
+### 💡 Key Insights
+
+- 🧬 TypeScript is the dominant language — 91.9% of analysed code across 18 repositories.
+- ⭐ Earned 30 stars and 2 forks; "Engagement" alone holds 17% of all stars.
+- 🕰️ Most productive on Tuesdays around 20:00 UTC — an evening hacker.
+- 🔥 68 contributions over the last 90 days, active on 8 days with a 3-day best streak.
+- 📅 4.6 years on GitHub, shipping 34 original repositories (~7.4/year).
+- 🛠️ 53% of original repositories were updated in the last 6 months.
+- 🏷️ Recurring themes: typescript, tailwindcss, react, framer-motion.
+- ⚖️ Preferred license: MIT (7 repos).
+
+<br/>
+
+## 📈 GitHub Metrics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Bavly-Hamdy&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=minimal&hide_border=true" height="165" alt="stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bavly-Hamdy&layout=compact&langs_count=8&theme=minimal&hide_border=true" height="165" alt="languages" />
+
+<img src="https://streak-stats.demolab.com/?user=Bavly-Hamdy&theme=minimal&hide_border=true" alt="streak" />
+
+</div>
+
+<br/>
+
+## 🤝 Connect
+
+<div align="center">
+
+Always open to discussing exciting technical projects and open-source contributions.
+
+<a href="https://github.com/Bavly-Hamdy"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://www.linkedin.com/in/bavly-hamdy"><img src="https://img.shields.io/badge/Portfolio-6d28d9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+
+</div>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:6d28d9,100:db2777&height=120&section=footer" width="100%" alt="footer" />
+
+<sub>Crafted with README Studio</sub>
+
+</div>
