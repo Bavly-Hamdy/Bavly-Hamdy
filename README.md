@@ -1,17 +1,17 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:1e1b4b,100:3b82f6&height=200&section=header&text=Bavly%20Hamdy&fontSize=48&fontColor=ffffff&fontAlignY=40&animation=fadeIn&desc=Full-Stack%20Software%20Engineer%20and%20UI%2FUX...&descAlignY=62&descSize=16" width="100%" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:18181b,50:27272a,100:3f3f46&height=200&section=header&text=Bavly%20Hamdy&fontSize=48&fontColor=ffffff&fontAlignY=40&animation=fadeIn&desc=Full-Stack%20Software%20Engineer%20and%20UI%2FUX...&descAlignY=62&descSize=16" width="100%" alt="header" />
 
 <a href="https://github.com/Bavly-Hamdy"><img src="https://avatars.githubusercontent.com/u/100946403?v=4" width="115" height="115" style="border-radius:50%;border:3px solid #6366f1;padding:2px;" alt="Bavly Hamdy" /></a>
 
-<a href="https://github.com/Bavly-Hamdy"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=60a5fa&center=true&vCenter=true&width=680&lines=Full-Stack+Software+Engineer+and+UI%2FUX...;Full-Stack+Developer+and+Open+Source+Co...;Passionate+about+high-performance+software" alt="Typing SVG" /></a>
+<a href="https://github.com/Bavly-Hamdy"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=e4e4e7&center=true&vCenter=true&width=680&lines=Full-Stack+Software+Engineer+and+UI%2FUX...;Full-Stack+Developer+and+Open+Source+Co...;Passionate+about+high-performance+software" alt="Typing SVG" /></a>
 
 <p align="center">
-<a href="https://github.com/Bavly-Hamdy?tab=followers"><img src="https://img.shields.io/badge/Followers-1-6d28d9?style=for-the-badge&logo=github&logoColor=white" alt="followers" /></a>
-<img src="https://img.shields.io/badge/Stars-30-db2777?style=for-the-badge&logo=starship&logoColor=white" alt="stars" />
-<img src="https://img.shields.io/badge/Grade-C-0f766e?style=for-the-badge" alt="grade" />
-<img src="https://img.shields.io/badge/Location-Cairo%2C%20Egypt-1f2937?style=for-the-badge&logo=googlemaps&logoColor=white" alt="location" />
-<img src="https://komarev.com/ghpvc/?username=Bavly-Hamdy&style=for-the-badge&color=7c3aed&label=Profile+Views" alt="views" />
+<a href="https://github.com/Bavly-Hamdy?tab=followers"><img src="https://img.shields.io/badge/Followers-1-6d28d9?style=plastic&logo=github&logoColor=white" alt="followers" /></a>
+<img src="https://img.shields.io/badge/Stars-30-db2777?style=plastic&logo=starship&logoColor=white" alt="stars" />
+<img src="https://img.shields.io/badge/Grade-C-0f766e?style=plastic" alt="grade" />
+<img src="https://img.shields.io/badge/Location-Cairo%2C%20Egypt-1f2937?style=plastic&logo=googlemaps&logoColor=white" alt="location" />
+<img src="https://komarev.com/ghpvc/?username=Bavly-Hamdy&style=plastic&color=7c3aed&label=Profile+Views" alt="views" />
 </p>
 
 </div>
